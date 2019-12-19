@@ -1,0 +1,49 @@
+Prechar Xiong 
+ICS 462 Assignment #6 
+11/20/19 
+ 
+
+For FCFS, the total head movement was 640 cylinders.
+
+For SSTF, the total head movement was 236 cylinders.
+
+For SCAN (toward final cylinder), the total head movement was 331 cylinders.
+
+For SCAN (toward first cylinder), the total head movement was 236 cylinders.
+
+For C-SCAN (toward final cylinder), the total head movement was 382 cylinders.
+
+For C-SCAN (toward first cylinder), the total head movement was 386 cylinders.
+
+For LOOK (toward final cylinder), the total head movement was 299 cylinders.
+
+For LOOK (toward first cylinder), the total head movement was 208 cylinders.
+
+For C-LOOK (toward final cylinder), the total head movement was 322 cylinders.
+
+For C-LOOK (toward first cylinder), the total head movement was 326 cylinders.
+
+
+
+For FCFS, the total head movement was 2716 cylinders.
+
+For SSTF, the total head movement was 1200 cylinders.
+
+For SCAN (toward final cylinder), the total head movement was 1648 cylinders.
+
+For SCAN (toward first cylinder), the total head movement was 1100 cylinders.
+
+For C-SCAN (toward final cylinder), the total head movement was 1970 cylinders.
+
+For C-SCAN (toward first cylinder), the total head movement was 1978 cylinders.
+
+For LOOK (toward final cylinder), the total head movement was 1350 cylinders.
+
+For LOOK (toward first cylinder), the total head movement was 900 cylinders.
+
+For C-LOOK (toward final cylinder), the total head movement was 1472 cylinders.
+
+For C-LOOK (toward first cylinder), the total head movement was 1480 cylinders.
+
+
+
