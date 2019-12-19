@@ -1,0 +1,2 @@
+# Disk-Scheduling-Algorithms
+This program implements the FCFS, SSTF, SCAN, C-SCAN, LOOK, and C-LOOK disk scheduling algorithms on data given from a text file. The first entry in the file is the number of cylinders in the disk,  the second is the starting disk position, and the third is a string of numbers which represent the numbers of cylinders with I/O requests. All data following this will also contain data in the same format.
